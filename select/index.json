@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "IN THE RAIN",
+  "base_artist": "XG",
+  "createdAt": "2025-12-19T16:05:57.612813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying In the Rain",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/01_Blue_Eyes_Crying_In_the_Rain_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying In the Rain",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/02_Blue_Eyes_Crying_In_the_Rain_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying In the Rain",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/03_Blue_Eyes_Crying_In_the_Rain_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying in the Rain (Live Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/04_Blue_Eyes_Crying_in_the_Rain_(Live_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying in the Rain (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_Blue_Eyes_Crying_in_the_Rain_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "River in the Rain",
+      "artist": "Joshua Hedley",
+      "has_synced": true,
+      "path": "select/06_River_in_the_Rain_Joshua_Hedley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thunder in the Rain",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/07_Thunder_in_the_Rain_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Singing In The Rain - Live",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/08_Singing_In_The_Rain_-_Live_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Singin' In The Rain (Studio Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_Singin'_In_The_Rain_(Studio_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go Ahead In the Rain",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/10_Go_Ahead_In_the_Rain_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tears in the Rain",
+      "artist": "Zomby",
+      "has_synced": false,
+      "path": "select/11_Tears_in_the_Rain_Zomby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Porsches In The Rain",
+      "artist": "YBN Nahmir feat. YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/12_Porsches_In_The_Rain_YBN_Nahmir_feat._YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Porsches In The Rain",
+      "artist": "YBN Nahmir & YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/13_Porsches_In_The_Rain_YBN_Nahmir_&_YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sleeping in the Rain",
+      "artist": "Lior",
+      "has_synced": true,
+      "path": "select/14_Sleeping_in_the_Rain_Lior.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Man in the Rain",
+      "artist": "Mike Oldfield",
+      "has_synced": true,
+      "path": "select/15_Man_in_the_Rain_Mike_Oldfield.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Singin' In The Rain",
+      "artist": "Mint Royale",
+      "has_synced": true,
+      "path": "select/16_Singin'_In_The_Rain_Mint_Royale.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Face In The Rain",
+      "artist": "Vangelis",
+      "has_synced": false,
+      "path": "select/17_My_Face_In_The_Rain_Vangelis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IN THE RAIN",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_IN_THE_RAIN_XG.txt"
+    }
+  ]
+}
